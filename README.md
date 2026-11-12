@@ -46,7 +46,6 @@ Selected projects from our [portfolio](https://mauri-dev.online):
 
 | Project | What it is | Live |
 |---|---|---|
-| **Mth-Bac** | Baccalaureate results platform (my own project) | [mth-bac.vercel.app](https://mth-bac.vercel.app) |
 | **K.M** | Maths e-learning platform | [k-m.study](https://k-m.study) |
 | **Skin Beauty** | Multilingual Korean-skincare store | [skin-beauty-nine.vercel.app](https://skin-beauty-nine.vercel.app) |
 
