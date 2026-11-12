@@ -28,22 +28,25 @@ Mobile-first platform for Mauritania's secondary-school maths programme: video l
 
 `Next.js` `TypeScript` `Supabase` `Cloudflare Workers` · private repository
 
-### 📊 [Mth-Bac](https://github.com/mth-25053/Mth-Bac) — baccalaureate results platform
+### 📊 Mth-Bac — baccalaureate results platform · [mth-bac.vercel.app](https://mth-bac.vercel.app)
 
-Bilingual Arabic/French platform to import, review, publish and browse Mauritanian baccalaureate results.
+Independent bilingual French/Arabic platform for Mauritanian baccalaureate results. **Designed and built by me, end to end.**
 
-- Excel import pipeline that validates the official results file before anything is published
-- Admin-only workflows with signed sessions and hashed passwords; public pages need no account
+- Result lookup by candidate number across several sessions (BAC 2024, 2025 and 2026, regular and supplementary)
+- Honour board of the national top 50, filterable by division, wilaya, institution and exam centre
+- Admin import pipeline that validates the official Excel results file before anything is published
+- Signed admin sessions and hashed passwords; public pages need no account
 - PostgreSQL schema managed with Prisma, input validation with Zod, test suite with Vitest
 
-`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS` `Vitest`
+`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS` `Vitest` · [source code](https://github.com/mth-25053/Mth-Bac)
 
 ### 🧩 With the Mauri-Dev team
 
-Team projects from our [portfolio](https://mauri-dev.online):
+Selected projects from our [portfolio](https://mauri-dev.online):
 
 | Project | What it is | Live |
 |---|---|---|
+| **Mth-Bac** | Baccalaureate results platform (my own project) | [mth-bac.vercel.app](https://mth-bac.vercel.app) |
 | **K.M** | Maths e-learning platform | [k-m.study](https://k-m.study) |
 | **Natija** | National exam results search (Bac, BEPC, concours) | [natija-ten.vercel.app](https://natija-ten.vercel.app) |
 | **Skin Beauty** | Multilingual Korean-skincare store | [skin-beauty-nine.vercel.app](https://skin-beauty-nine.vercel.app) |
