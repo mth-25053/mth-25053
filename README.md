@@ -18,16 +18,6 @@ I'm a full-stack developer from Nouakchott, Mauritania, and a computer-science s
 
 ## Featured work
 
-### 🎓 K.M — maths learning platform · [k-m.study](https://k-m.study)
-
-Mobile-first platform for Mauritania's secondary-school maths programme: video lessons, a quiz after every lesson, chat with the teacher and an AI assistant for exercises. Built by a team of three; **I owned the student app**:
-
-- the student-facing screens, from lessons to quizzes and past papers
-- the shared design system (UI components)
-- the data layer and internationalisation (`lib/data`, `lib/i18n`)
-
-`Next.js` `TypeScript` `Supabase` `Cloudflare Workers` · private repository
-
 ### 📊 Mth-Bac — baccalaureate results platform · [mth-bac.vercel.app](https://mth-bac.vercel.app)
 
 Independent bilingual French/Arabic platform for Mauritanian baccalaureate results. **Designed and built by me, end to end.**
@@ -40,6 +30,16 @@ Independent bilingual French/Arabic platform for Mauritanian baccalaureate resul
 
 `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma` `Tailwind CSS` `Vitest` · [source code](https://github.com/mth-25053/Mth-Bac)
 
+### 🎓 K.M — maths learning platform · [k-m.study](https://k-m.study)
+
+Mobile-first platform for Mauritania's secondary-school maths programme: video lessons, a quiz after every lesson, chat with the teacher and an AI assistant for exercises. Built by a team of three; **I owned the student app**:
+
+- the student-facing screens, from lessons to quizzes and past papers
+- the shared design system (UI components)
+- the data layer and internationalisation (`lib/data`, `lib/i18n`)
+
+`Next.js` `TypeScript` `Supabase` `Cloudflare Workers` · private repository
+
 ### 🧩 With the Mauri-Dev team
 
 Selected projects from our [portfolio](https://mauri-dev.online):
@@ -48,7 +48,6 @@ Selected projects from our [portfolio](https://mauri-dev.online):
 |---|---|---|
 | **Mth-Bac** | Baccalaureate results platform (my own project) | [mth-bac.vercel.app](https://mth-bac.vercel.app) |
 | **K.M** | Maths e-learning platform | [k-m.study](https://k-m.study) |
-| **Natija** | National exam results search (Bac, BEPC, concours) | [natija-ten.vercel.app](https://natija-ten.vercel.app) |
 | **Skin Beauty** | Multilingual Korean-skincare store | [skin-beauty-nine.vercel.app](https://skin-beauty-nine.vercel.app) |
 
 ## Toolkit
