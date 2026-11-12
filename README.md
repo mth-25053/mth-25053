@@ -28,7 +28,7 @@ Mobile-first platform for Mauritania's secondary-school maths programme: video l
 
 `Next.js` `TypeScript` `Supabase` `Cloudflare Workers` · private repository
 
-### 📊 [MoriBac](https://github.com/mth-25053/MoriBac) — baccalaureate results platform
+### 📊 [Mth-Bac](https://github.com/mth-25053/Mth-Bac) — baccalaureate results platform
 
 Bilingual Arabic/French platform to import, review, publish and browse Mauritanian baccalaureate results.
 
