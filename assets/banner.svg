@@ -26,14 +26,14 @@
       <text x="24" y="72" fill="#64748b">$ whoami</text>
       <text x="24" y="100" fill="#e2e8f0">full-stack developer · Nouakchott</text>
       <text x="24" y="136" fill="#64748b">$ cat stack.txt</text>
-      <text x="24" y="164" fill="#22c55e">Next.js · TypeScript · PostgreSQL</text>
-      <text x="24" y="192" fill="#facc15">Prisma · Supabase · Tailwind</text>
+      <text x="24" y="164" fill="#22c55e">Next.js · TypeScript · FastAPI</text>
+      <text x="24" y="192" fill="#facc15">Supabase · PostgreSQL · Cloudflare</text>
     </g>
   </g>
 
   <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
     <text x="60" y="120" font-size="64" font-weight="800" fill="#f8fafc">Mouthena Baba</text>
-    <text x="62" y="166" font-size="22" fill="#94a3b8" letter-spacing="3">FULL-STACK DEVELOPER · MAURI-DEV</text>
+    <text x="62" y="166" font-size="18" fill="#94a3b8" letter-spacing="2">FULL-STACK DEVELOPER · CO-FOUNDER OF MAURI-DEV</text>
     <text x="62" y="236" font-size="20" fill="#cbd5e1">Web apps for Mauritania — in Arabic, French &amp; English</text>
   </g>
 </svg>

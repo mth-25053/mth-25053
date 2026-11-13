@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f14"/><stop offset="1" stop-color="#101a24"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#f472b6" stop-opacity="0.28"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f472b6"/><stop offset="1" stop-color="#facc15"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#g)"/>
+<rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#f472b6" stroke-opacity="0.35"/>
+<rect x="56" y="0" width="120" height="5" fill="url(#bar)"/>
+<g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="56" y="52" width="386.0" height="34" rx="17" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.5"/>
+<circle cx="76" cy="69" r="5" fill="#f472b6"/>
+<text x="90" y="75" font-size="15" font-weight="700" fill="#f472b6" letter-spacing="2">UNIVERSITY PROJECT · TEAM LEAD</text>
+<text x="54" y="172" font-size="72" font-weight="800" fill="#f8fafc">Beauty Store</text>
+<text x="58" y="226" font-size="24" fill="#cbd5e1">E-commerce store with products &amp; orders</text>
+</g>
+<g transform="translate(760 40)"><g font-family="Inter, Segoe UI, Arial, sans-serif">
+<rect x="20" y="20" width="110" height="140" rx="12" fill="#0f1720" stroke="#f472b6" stroke-opacity="0.5"/>
+<rect x="150" y="20" width="110" height="140" rx="12" fill="#0f1720" stroke="#f472b6" stroke-opacity="0.5"/>
+<rect x="280" y="20" width="110" height="140" rx="12" fill="#0f1720" stroke="#f472b6" stroke-opacity="0.5"/>
+<circle cx="75" cy="75" r="26" fill="#f472b6" fill-opacity="0.35"/><circle cx="205" cy="75" r="26" fill="#f472b6" fill-opacity="0.35"/><circle cx="335" cy="75" r="26" fill="#f472b6" fill-opacity="0.35"/>
+<text x="40" y="200" font-size="18" fill="#94a3b8">catalogue · cart · orders</text></g></g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f14"/><stop offset="1" stop-color="#101a24"/></linearGradient>
+<radialGradient id="glow" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.28"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#g)"/>
+<rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/>
+<rect x="56" y="0" width="120" height="5" fill="url(#bar)"/>
+<g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<rect x="56" y="52" width="475.59999999999997" height="34" rx="17" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.5"/>
+<circle cx="76" cy="69" r="5" fill="#a78bfa"/>
+<text x="90" y="75" font-size="15" font-weight="700" fill="#a78bfa" letter-spacing="2">SEMI-FINALIST · FINTECH HACKATHON 2026</text>
+<text x="54" y="172" font-size="72" font-weight="800" fill="#f8fafc">AMPP</text>
+<text x="58" y="226" font-size="24" fill="#cbd5e1">Buy now, pay later — built for Mauritania</text>
+</g>
+<g transform="translate(760 40)"><g font-family="Inter, Segoe UI, Arial, sans-serif">
+<line x1="40" y1="110" x2="380" y2="110" stroke="#334155" stroke-width="4"/>
+<line x1="40" y1="110" x2="210" y2="110" stroke="#a78bfa" stroke-width="4"/>
+<circle cx="40" cy="110" r="14" fill="#a78bfa"/><circle cx="125" cy="110" r="14" fill="#a78bfa"/>
+<circle cx="210" cy="110" r="14" fill="#a78bfa"/><circle cx="295" cy="110" r="14" fill="#1e293b" stroke="#a78bfa" stroke-width="3"/>
+<circle cx="380" cy="110" r="14" fill="#1e293b" stroke="#a78bfa" stroke-width="3"/>
+<text x="20" y="60" font-size="20" fill="#e2e8f0">Buy now · pay later</text>
+<text x="20" y="170" font-size="17" fill="#94a3b8">auto-debit from salary account</text></g></g>
+</svg>
